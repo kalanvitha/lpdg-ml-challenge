@@ -437,3 +437,10 @@ More details, including one concrete AI mistake that was identified and correcte
 The main design choices and alternatives considered are documented in:
 
 `DECISIONS.md`
+
+## Demo Video
+
+A short screen-recording demonstrating the project execution, ML-based gateway ranking,
+validation results, and repository contents is available here:
+
+[Watch the LPDG Demo Video](https://drive.google.com/file/d/1ELN2wtmZ43Kp4gzF7ff0opvDkFq8f5yr/view?usp=sharing)
